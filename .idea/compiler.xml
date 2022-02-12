@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Recipes.Topics-Constructor-Theory.main" />
+        <module name="Recipes.Topics-Comments-Statements.test" />
+        <module name="Recipes.Topics-Declaring_a_method-The_sign_of_a_number.test" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-The_smallest_value.main" />
+        <module name="Recipes.Topics-The_main_method-No_main_args.test" />
+        <module name="Recipes.Topics-The_main_method-Theory.test" />
+        <module name="Recipes.Topics-Defining_classes-Inner_boxes.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main" />
+        <module name="Recipes.Topics-ArrayList-Theory.test" />
+        <module name="Recipes.Topics-Branching_statements-Theory.main" />
+        <module name="Recipes.Topics-Constructor-Geometric_cube.test" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-The_assignment.test" />
+        <module name="Recipes.Topics-Array-Initializations.main" />
+        <module name="Recipes.Topics-Comments-Theory.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Hiring_a_chef.test" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Desks.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Synchronized_blocks.test" />
+        <module name="Recipes.Topics-The_Set_interface-Theory.main" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" />
+        <module name="Recipes.Topics-String-Theory.main" />
+        <module name="Recipes.Topics-Printing_data-From_0_to_4.test" />
+        <module name="Recipes.Topics-The_main_method-Print__Hello,_Java_.main" />
+        <module name="Recipes.Topics-Printing_data-What_does_the_code_print.main" />
+        <module name="Recipes.util.main" />
+        <module name="Recipes.Topics-Calling_a_method-Theory.main" />
+        <module name="Recipes.Topics-Relational_operators-Possible_values_of_a_variable.test" />
+        <module name="Recipes.Topics-Declaring_a_method-Method_signature.main" />
+        <module name="Recipes.Topics-The_for-loop-Size_of_parts.main" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Reversing_input_numbers.main" />
+        <module name="Recipes.Topics-Array-Determine_the_output.main" />
+        <module name="Recipes.Topics-Switch_statement-Floor-space_of_the_room.test" />
+        <module name="Recipes.Topics-Switch_statement-Theory.test" />
+        <module name="Recipes.Topics-Branching_statements-Even_or_odd.test" />
+        <module name="Recipes.Topics-String-Comparing_strings_ignoring_whitespaces.test" />
+        <module name="Recipes.Topics-Array-Ways_to_create_an_array_of_ints.main" />
+        <module name="Recipes.Topics-The_main_method-Fixing_the_main_method.test" />
+        <module name="Recipes.Topics-Calling_a_method-Method_invocation.main" />
+        <module name="Recipes.Topics-Conditional_statement-Chocolate.main" />
+        <module name="Recipes.Topics-What_is_an_exception-Theory.test" />
+        <module name="Recipes.Topics-Printing_data-First,_second,_third.test" />
+        <module name="Recipes.Topics-Array-Creating_arrays.main" />
+        <module name="Recipes.Topics-Relational_operators-Check_the_sum.test" />
+        <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.test" />
+        <module name="Recipes.Topics-Custom_threads-Theory.test" />
+        <module name="Recipes.Topics-Comments-The_forgotten_comments.main" />
+        <module name="Recipes.Topics-Instance_methods-Theory.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Next_even_number.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.test" />
+        <module name="Recipes.Topics-Functional_decomposition-Create_a_full_name.test" />
+        <module name="Recipes.Topics-Conditional_statement-Queens.test" />
+        <module name="Recipes.Topics-Errors_in_programs-Fix_compile-time_errors.test" />
+        <module name="Recipes.Topics-Declaring_a_method-Raise_to_the_power.test" />
+        <module name="Recipes.Topics-The_for-loop-Such_different_for_loops.main" />
+        <module name="Recipes.Topics-Overloading-Print.test" />
+        <module name="Recipes.Topics-Printing_data-Theory.main" />
+        <module name="Recipes.Topics-The_main_method-Print__We_are_robots_.main" />
+        <module name="Recipes.Topics-The_main_method-Who_is_the_main.main" />
+        <module name="Recipes.Topics-Conditional_statement-Interval.test" />
+        <module name="Recipes.Recipes-task.test" />
+        <module name="Recipes.Topics-String-Comparing_strings.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Possible_outputs.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-Theory.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Application_as_a_class.main" />
+        <module name="Recipes.Topics-String-Extracting_a_substring.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Counting_number_of_instances.main" />
+        <module name="Recipes.Topics-Functional_decomposition-Decompose_a_math_function.main" />
+        <module name="Recipes.Topics-Relational_operators-Is_between.test" />
+        <module name="Recipes.Topics-Defining_classes-A_class_with_a_single_integer_field.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Theory.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" />
+        <module name="Recipes.Topics-Branching_statements-The_sequence.main" />
+        <module name="Recipes.Topics-Scanning_the_input-Theory.test" />
+        <module name="Recipes.Topics-Array-Equal_arrays.test" />
+        <module name="Recipes.Topics-The_main_method-Fixing_errors_in_main.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_method_print.main" />
+        <module name="Recipes.Topics-Overloading-Overloading_methods.test" />
+        <module name="Recipes.Topics-String-Check_prefix_ignoring_the_case.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Threads_executing_methods.test" />
+        <module name="Recipes.Topics-Branching_statements-Bus_tour.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Theory.main" />
+        <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-What_is_the_result.test" />
+        <module name="Recipes.Topics-Printing_data-We_need_to_learn_Java.main" />
+        <module name="Recipes.Topics-Defining_classes-Theory.test" />
+        <module name="Recipes.Topics-What_is_an_exception-Behaviour_of_an_exception.main" />
+        <module name="Recipes.Topics-The_Map_interface-Creating_a_map.test" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-Determine_the_result.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Statements.test" />
+        <module name="Recipes.Topics-Comments-Printing_only_the_longest_line.test" />
+        <module name="Recipes.Topics-Integer_types_and_operations-The_sum_of_digits.test" />
+        <module name="Recipes.Topics-Conditional_statement-Healthy_sleep.test" />
+        <module name="Recipes.Recipes-task.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-Increasing_a_variable_by_one.main" />
+        <module name="Recipes.Topics-Errors_in_programs-Theory.test" />
+        <module name="Recipes.Topics-Comments-Select_all_correct_comments.test" />
+        <module name="Recipes.Topics-Defining_classes-Correct_fields.main" />
+        <module name="Recipes.Topics-Comments-What_comments_are_not_used_in_the_program.test" />
+        <module name="Recipes.Topics-Conditional_statement-The_condition_to_travel_around_the_world.test" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Difference_of_times.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Theory.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Individual_taxes.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.main" />
+        <module name="Recipes.Topics-Thread_management-Theory.main" />
+        <module name="Recipes.Topics-Overloading-Theory.test" />
+        <module name="Recipes.Topics-Declaring_a_method-Greatest_common_divisor.test" />
+        <module name="Recipes.Topics-Printing_data-Digits_from_0_to_9_backwards.test" />
+        <module name="Recipes.Topics-What_is_an_exception-Time_for_exceptions.main" />
+        <module name="Recipes.Topics-Array-Theory.main" />
+        <module name="Recipes.Topics-Constructor-Automatically_generated_constructor.test" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Theory.test" />
+        <module name="Recipes.Topics-Switch_statement-A_simple_calculator.test" />
+        <module name="Recipes.Topics-The_for-loop-The_roots_of_an_equation.test" />
+        <module name="Recipes.Topics-Conditional_statement-Theory.test" />
+        <module name="Recipes.Topics-Relational_operators-Existing_operators.main" />
+        <module name="Recipes.Topics-The_Set_interface-Creating_a_set.main" />
+        <module name="Recipes.Topics-Array-Determine_the_output.test" />
+        <module name="Recipes.Topics-Array-Initializing_an_array_of_integers.main" />
+        <module name="Recipes.Topics-Declaring_a_method-Method_signature.test" />
+        <module name="Recipes.Topics-Increment_and_decrement-What_is_the_result__1_.main" />
+        <module name="Recipes.Topics-Custom_threads-Starting_runnables.test" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-Code_with_nulls.main" />
+        <module name="Recipes.Topics-Declaring_a_method-Theory.main" />
+        <module name="Recipes.Topics-The_for-loop-Determine_the_result.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Varargs_method_invocation.main" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-The_assignment.main" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-Creating_a_primitive.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Two_methods,_two_statements.test" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-Theory.test" />
+        <module name="Recipes.Topics-Relational_operators-Exactly_one_parameter_is_positive.test" />
+        <module name="Recipes.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Theory.test" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.main" />
+        <module name="Recipes.Topics-Relational_operators-Theory.main" />
+        <module name="Recipes.Topics-Printing_data-Stars.main" />
+        <module name="Recipes.Topics-Calling_a_method-Call_me_awesome.main" />
+        <module name="Recipes.Topics-What_is_an_exception-Avoid_division_by_zero.main" />
+        <module name="Recipes.Topics-What_is_an_exception-Exceptions'_situations.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-How_to_invoke_the_method.test" />
+        <module name="Recipes.Topics-Printing_data-Printing_a_magic_letter.test" />
+        <module name="Recipes.Topics-Calling_a_method-Area_of_parallelogram.main" />
+        <module name="Recipes.Topics-Conditional_statement-Chocolate.test" />
+        <module name="Recipes.Topics-Overloading-Successful_overloading.test" />
+        <module name="Recipes.Topics-Relational_operators-Boys_in_a_sport_class.main" />
+        <module name="Recipes.Topics-ArrayList-Creating_list.main" />
+        <module name="Recipes.Topics-Defining_classes-Points.test" />
+        <module name="Recipes.Topics-The_main_method-Running_a_program_without_main.main" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.main" />
+        <module name="Recipes.Topics-Overloading-Conditionals_for_overloading.test" />
+        <module name="Recipes.Topics-Functional_decomposition-Theory.test" />
+        <module name="Recipes.Topics-String-Comparing_strings_ignoring_whitespaces.main" />
+        <module name="Recipes.Topics-Switch_statement-Floor-space_of_the_room.main" />
+        <module name="Recipes.Topics-Switch_statement-Theory.main" />
+        <module name="Recipes.Topics-Array-Ways_to_create_an_array_of_ints.test" />
+        <module name="Recipes.Topics-String-Check_prefix_ignoring_the_case.main" />
+        <module name="Recipes.Topics-Functional_decomposition-Calculator_with_four_methods.main" />
+        <module name="Recipes.Topics-Scanning_the_input-Guest_list_of_a_hotel.test" />
+        <module name="Recipes.Topics-The_for-loop-Size_of_parts.test" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Next_even_number.main" />
+        <module name="Recipes.Topics-Relational_operators-Check_the_sum.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.main" />
+        <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.main" />
+        <module name="Recipes.Topics-The_main_method-Running_a_program_without_main.test" />
+        <module name="Recipes.Topics-Calling_a_method-Theory.test" />
+        <module name="Recipes.Topics-Printing_data-First,_second,_third.main" />
+        <module name="Recipes.Topics-The_main_method-Different_declarations.test" />
+        <module name="Recipes.Topics-The_for-loop-Theory.main" />
+        <module name="Recipes.Topics-Functional_decomposition-Theory.main" />
+        <module name="Recipes.Topics-Printing_data-From_0_to_4.main" />
+        <module name="Recipes.Topics-Printing_data-Digits_from_0_to_9_backwards.main" />
+        <module name="Recipes.Topics-Custom_threads-Starting_runnables.main" />
+        <module name="Recipes.Topics-Defining_classes-A_class_with_a_single_integer_field.main" />
+        <module name="Recipes.Topics-Functional_decomposition-Decompose_a_math_function.test" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.test" />
+        <module name="Recipes.Topics-ArrayList-Theory.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_method_print.test" />
+        <module name="Recipes.Topics-Instance_methods-Theory.main" />
+        <module name="Recipes.Topics-Array-Initializations.test" />
+        <module name="Recipes.Topics-Conditional_statement-Theory.main" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Desks.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Theory.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Counting_number_of_instances.test" />
+        <module name="Recipes.Topics-Relational_operators-Theory.test" />
+        <module name="Recipes.Topics-What_is_an_exception-Exceptions'_situations.test" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Topics-Relational_operators-Existing_operators.test" />
+        <module name="Recipes.Topics-Relational_operators-Possible_values_of_a_variable.main" />
+        <module name="Recipes.Topics-Printing_data-What_does_the_code_print.test" />
+        <module name="Recipes.Topics-Declaring_a_method-The_sign_of_a_number.main" />
+        <module name="Recipes.Topics-The_main_method-Who_is_the_main.test" />
+        <module name="Recipes.Topics-Overloading-Overloading_methods.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-Decrement_all.main" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Theory.main" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Difference_of_times.test" />
+        <module name="Recipes.Topics-String-Theory.test" />
+        <module name="Recipes.Topics-The_main_method-Fixing_the_main_method.main" />
+        <module name="Recipes.Topics-The_Set_interface-Theory.test" />
+        <module name="Recipes.Topics-Branching_statements-Even_or_odd.main" />
+        <module name="Recipes.Topics-Constructor-Geometric_cube.main" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-Profit.test" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-Determine_the_result.test" />
+        <module name="Recipes.Topics-Increment_and_decrement-Theory.test" />
+        <module name="Recipes.Topics-The_main_method-Theory.main" />
+        <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.test" />
+        <module name="Recipes.Topics-Errors_in_programs-Print_the_age.main" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-Theory.main" />
+        <module name="Recipes.Topics-The_main_method-Print__We_are_robots_.test" />
+        <module name="Recipes.Topics-Defining_classes-Inner_boxes.test" />
+        <module name="Recipes.Topics-Relational_operators-Is_between.main" />
+        <module name="Recipes.Topics-Array-Equal_arrays.main" />
+        <module name="Recipes.Topics-Conditional_statement-Symmetrical_number.main" />
+        <module name="Recipes.Topics-The_main_method-Fixing_errors_in_main.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-Increasing_a_variable_by_one.test" />
+        <module name="Recipes.Topics-Branching_statements-Theory.test" />
+        <module name="Recipes.Topics-Comments-The_forgotten_comments.test" />
+        <module name="Recipes.Topics-Comments-Theory.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Synchronized_blocks.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Statements.main" />
+        <module name="Recipes.Topics-Branching_statements-The_sequence.test" />
+        <module name="Recipes.Topics-Declaring_a_method-The_elements_of_a_method.main" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-The_smallest_value.test" />
+        <module name="Recipes.Topics-Conditional_statement-Queens.main" />
+        <module name="Recipes.Topics-The_main_method-Print__Hello,_Java_.test" />
+        <module name="Recipes.Topics-String-Extracting_a_substring.main" />
+        <module name="Recipes.Topics-toString__-Theory.test" />
+        <module name="Recipes.Topics-The_Map_interface-Creating_a_map.main" />
+        <module name="Recipes.Topics-Instance_methods-Counter.test" />
+        <module name="Recipes.Topics-Printing_data-Theory.test" />
+        <module name="Recipes.Topics-Conditional_statement-Interval.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Theory.test" />
+        <module name="Recipes.Topics-Custom_threads-Theory.main" />
+        <module name="Recipes.Topics-Declaring_a_method-Greatest_common_divisor.main" />
+        <module name="Recipes.Topics-Errors_in_programs-Print_the_age.test" />
+        <module name="Recipes.Topics-Overloading-Print.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Theory.main" />
+        <module name="Recipes.Topics-Instance_methods-Counter.main" />
+        <module name="Recipes.Topics-String-Comparing_strings.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Varargs_method_invocation.test" />
+        <module name="Recipes.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" />
+        <module name="Recipes.Topics-Errors_in_programs-Fix_compile-time_errors.main" />
+        <module name="Recipes.Topics-Relational_operators-Boys_in_a_sport_class.test" />
+        <module name="Recipes.Topics-What_is_an_exception-Avoid_division_by_zero.test" />
+        <module name="Recipes.Topics-Array-Initializing_an_array_of_integers.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Application_as_a_class.test" />
+        <module name="Recipes.Topics-Constructor-Automatically_generated_constructor.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-What_is_the_result__1_.test" />
+        <module name="Recipes.Topics-Overloading-Successful_overloading.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.test" />
+        <module name="Recipes.Topics-Array-Theory.test" />
+        <module name="Recipes.Topics-Increment_and_decrement-Decrement_all.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.test" />
+        <module name="Recipes.Topics-What_is_an_exception-Behaviour_of_an_exception.test" />
+        <module name="Recipes.Topics-Overloading-Theory.main" />
+        <module name="Recipes.Topics-The_for-loop-Determine_the_result.main" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-Theory.test" />
+        <module name="Recipes.Topics-Declaring_a_method-Raise_to_the_power.main" />
+        <module name="Recipes.Topics-Thread_management-Theory.test" />
+        <module name="Recipes.Topics-The_while_and_do-while_loops-Profit.main" />
+        <module name="Recipes.Topics-Comments-Select_all_correct_comments.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Theory.test" />
+        <module name="Recipes.Topics-The_for-loop-Such_different_for_loops.test" />
+        <module name="Recipes.Topics-Functional_decomposition-Create_a_full_name.main" />
+        <module name="Recipes.Topics-The_for-loop-The_roots_of_an_equation.main" />
+        <module name="Recipes.Topics-The_Set_interface-Creating_a_set.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.main" />
+        <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.test" />
+        <module name="Recipes.Topics-Printing_data-Printing_a_magic_letter.main" />
+        <module name="Recipes.Topics-Declaring_a_method-The_elements_of_a_method.test" />
+        <module name="Recipes.Topics-toString__-Theory.main" />
+        <module name="Recipes.Topics-Defining_classes-Theory.main" />
+        <module name="Recipes.Topics-Conditional_statement-Symmetrical_number.test" />
+        <module name="Recipes.Topics-Comments-What_comments_are_not_used_in_the_program.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-What_is_the_result.main" />
+        <module name="Recipes.Topics-Integer_types_and_operations-The_sum_of_digits.main" />
+        <module name="Recipes.Topics-Comments-Printing_only_the_longest_line.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Possible_outputs.test" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-Theory.main" />
+        <module name="Recipes.Topics-Defining_classes-Points.main" />
+        <module name="Recipes.Topics-ArrayList-Creating_list.test" />
+        <module name="Recipes.Topics-What_is_an_exception-Theory.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-How_to_invoke_the_method.main" />
+        <module name="Recipes.Topics-Calling_a_method-Method_invocation.test" />
+        <module name="Recipes.Topics-What_is_an_exception-Time_for_exceptions.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Hiring_a_chef.main" />
+        <module name="Recipes.Topics-Array-Creating_arrays.test" />
+        <module name="Recipes.Topics-The_main_method-No_main_args.main" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.test" />
+        <module name="Recipes.Topics-Branching_statements-Bus_tour.test" />
+        <module name="Recipes.Topics-Comments-Statements.main" />
+        <module name="Recipes.Topics-Overloading-Conditionals_for_overloading.main" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-Code_with_nulls.test" />
+        <module name="Recipes.Topics-Declaring_a_method-Theory.test" />
+        <module name="Recipes.Topics-Printing_data-We_need_to_learn_Java.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Theory.main" />
+        <module name="Recipes.Topics-Calling_a_method-Area_of_parallelogram.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Threads_executing_methods.main" />
+        <module name="Recipes.Topics-Switch_statement-A_simple_calculator.main" />
+        <module name="Recipes.Topics-Functional_decomposition-Calculator_with_four_methods.test" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.test" />
+        <module name="Recipes.Topics-Calling_a_method-Call_me_awesome.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Individual_taxes.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.test" />
+        <module name="Recipes.Topics-Printing_data-Stars.test" />
+        <module name="Recipes.Topics-Conditional_statement-Healthy_sleep.main" />
+        <module name="Recipes.Topics-Constructor-Theory.test" />
+        <module name="Recipes.Topics-Integer_types_and_operations-Reversing_input_numbers.test" />
+        <module name="Recipes.Topics-The_main_method-Different_declarations.main" />
+        <module name="Recipes.Topics-The_for-loop-Theory.test" />
+        <module name="Recipes.Topics-Defining_classes-Correct_fields.test" />
+        <module name="Recipes.Topics-Primitive_and_reference_types-Creating_a_primitive.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Two_methods,_two_statements.main" />
+        <module name="Recipes.Topics-Errors_in_programs-Theory.main" />
+        <module name="Recipes.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" />
+        <module name="Recipes.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Recipes.Recipes-task.main" target="11" />
+      <module name="Recipes.Topics-Array-Creating_arrays.main" target="11" />
+      <module name="Recipes.Topics-Array-Determine_the_output.main" target="11" />
+      <module name="Recipes.Topics-Array-Equal_arrays.main" target="11" />
+      <module name="Recipes.Topics-Array-Initializations.main" target="11" />
+      <module name="Recipes.Topics-Array-Initializing_an_array_of_integers.main" target="11" />
+      <module name="Recipes.Topics-Array-Theory.main" target="11" />
+      <module name="Recipes.Topics-Array-Ways_to_create_an_array_of_ints.main" target="11" />
+      <module name="Recipes.Topics-ArrayList-Creating_list.main" target="11" />
+      <module name="Recipes.Topics-ArrayList-Theory.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Application_as_a_class.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-How_to_invoke_the_method.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Statements.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Varargs_method_invocation.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_method_print.main" target="11" />
+      <module name="Recipes.Topics-Branching_statements-Bus_tour.main" target="11" />
+      <module name="Recipes.Topics-Branching_statements-Even_or_odd.main" target="11" />
+      <module name="Recipes.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="Recipes.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Recipes.Topics-Calling_a_method-Area_of_parallelogram.main" target="11" />
+      <module name="Recipes.Topics-Calling_a_method-Call_me_awesome.main" target="11" />
+      <module name="Recipes.Topics-Calling_a_method-Method_invocation.main" target="11" />
+      <module name="Recipes.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Recipes.Topics-Comments-Printing_only_the_longest_line.main" target="11" />
+      <module name="Recipes.Topics-Comments-Select_all_correct_comments.main" target="11" />
+      <module name="Recipes.Topics-Comments-Statements.main" target="11" />
+      <module name="Recipes.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Recipes.Topics-Comments-Theory.main" target="11" />
+      <module name="Recipes.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="11" />
+      <module name="Recipes.Topics-Conditional_statement-Chocolate.main" target="11" />
+      <module name="Recipes.Topics-Conditional_statement-Healthy_sleep.main" target="11" />
+      <module name="Recipes.Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="Recipes.Topics-Conditional_statement-Queens.main" target="11" />
+      <module name="Recipes.Topics-Conditional_statement-Symmetrical_number.main" target="11" />
+      <module name="Recipes.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Recipes.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Automatically_generated_constructor.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Geometric_cube.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Theory.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Starting_runnables.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Recipes.Topics-Declaring_a_method-Greatest_common_divisor.main" target="11" />
+      <module name="Recipes.Topics-Declaring_a_method-Method_signature.main" target="11" />
+      <module name="Recipes.Topics-Declaring_a_method-Raise_to_the_power.main" target="11" />
+      <module name="Recipes.Topics-Declaring_a_method-The_elements_of_a_method.main" target="11" />
+      <module name="Recipes.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Recipes.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Recipes.Topics-Defining_classes-A_class_with_a_single_integer_field.main" target="11" />
+      <module name="Recipes.Topics-Defining_classes-Correct_fields.main" target="11" />
+      <module name="Recipes.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Recipes.Topics-Defining_classes-Points.main" target="11" />
+      <module name="Recipes.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Recipes.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Recipes.Topics-Errors_in_programs-Print_the_age.main" target="11" />
+      <module name="Recipes.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Recipes.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Recipes.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Recipes.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Recipes.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Recipes.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
+      <module name="Recipes.Topics-Increment_and_decrement-Increasing_a_variable_by_one.main" target="11" />
+      <module name="Recipes.Topics-Increment_and_decrement-Theory.main" target="11" />
+      <module name="Recipes.Topics-Increment_and_decrement-What_is_the_result.main" target="11" />
+      <module name="Recipes.Topics-Increment_and_decrement-What_is_the_result__1_.main" target="11" />
+      <module name="Recipes.Topics-Instance_methods-Counter.main" target="11" />
+      <module name="Recipes.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Recipes.Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="Recipes.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="Recipes.Topics-Integer_types_and_operations-Next_even_number.main" target="11" />
+      <module name="Recipes.Topics-Integer_types_and_operations-Reversing_input_numbers.main" target="11" />
+      <module name="Recipes.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
+      <module name="Recipes.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.main" target="11" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Individual_taxes.main" target="11" />
+      <module name="Recipes.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main" target="11" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="11" />
+      <module name="Recipes.Topics-Overloading-Conditionals_for_overloading.main" target="11" />
+      <module name="Recipes.Topics-Overloading-Overloading_methods.main" target="11" />
+      <module name="Recipes.Topics-Overloading-Print.main" target="11" />
+      <module name="Recipes.Topics-Overloading-Successful_overloading.main" target="11" />
+      <module name="Recipes.Topics-Overloading-Theory.main" target="11" />
+      <module name="Recipes.Topics-Primitive_and_reference_types-Code_with_nulls.main" target="11" />
+      <module name="Recipes.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="11" />
+      <module name="Recipes.Topics-Primitive_and_reference_types-The_assignment.main" target="11" />
+      <module name="Recipes.Topics-Primitive_and_reference_types-Theory.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-Stars.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
+      <module name="Recipes.Topics-Printing_data-What_does_the_code_print.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Boys_in_a_sport_class.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Is_between.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Possible_values_of_a_variable.main" target="11" />
+      <module name="Recipes.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Recipes.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="11" />
+      <module name="Recipes.Topics-Scanning_the_input-Hiring_a_chef.main" target="11" />
+      <module name="Recipes.Topics-Scanning_the_input-Theory.main" target="11" />
+      <module name="Recipes.Topics-String-Check_prefix_ignoring_the_case.main" target="11" />
+      <module name="Recipes.Topics-String-Comparing_strings.main" target="11" />
+      <module name="Recipes.Topics-String-Comparing_strings_ignoring_whitespaces.main" target="11" />
+      <module name="Recipes.Topics-String-Extracting_a_substring.main" target="11" />
+      <module name="Recipes.Topics-String-Theory.main" target="11" />
+      <module name="Recipes.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Recipes.Topics-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Recipes.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_for-loop-Determine_the_result.main" target="11" />
+      <module name="Recipes.Topics-The_for-loop-Size_of_parts.main" target="11" />
+      <module name="Recipes.Topics-The_for-loop-Such_different_for_loops.main" target="11" />
+      <module name="Recipes.Topics-The_for-loop-The_roots_of_an_equation.main" target="11" />
+      <module name="Recipes.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Different_declarations.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Fixing_errors_in_main.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-No_main_args.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Print__Hello,_Java_.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Print__We_are_robots_.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Running_a_program_without_main.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_main_method-Who_is_the_main.main" target="11" />
+      <module name="Recipes.Topics-The_Map_interface-Creating_a_map.main" target="11" />
+      <module name="Recipes.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_Set_interface-Creating_a_set.main" target="11" />
+      <module name="Recipes.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_while_and_do-while_loops-Determine_the_result.main" target="11" />
+      <module name="Recipes.Topics-The_while_and_do-while_loops-Profit.main" target="11" />
+      <module name="Recipes.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" target="11" />
+      <module name="Recipes.Topics-The_while_and_do-while_loops-The_smallest_value.main" target="11" />
+      <module name="Recipes.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="Recipes.Topics-Thread_management-Theory.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Counting_number_of_instances.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Possible_outputs.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Synchronized_blocks.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Threads_executing_methods.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Two_methods,_two_statements.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.main" target="11" />
+      <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="Recipes.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="Recipes.Topics-toString__-Theory.main" target="11" />
+      <module name="Recipes.Topics-toString__-Users_as_strings.main" target="11" />
+      <module name="Recipes.Topics-What_is_an_exception-Avoid_division_by_zero.main" target="11" />
+      <module name="Recipes.Topics-What_is_an_exception-Behaviour_of_an_exception.main" target="11" />
+      <module name="Recipes.Topics-What_is_an_exception-Exceptions'_situations.main" target="11" />
+      <module name="Recipes.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Recipes.Topics-What_is_an_exception-Time_for_exceptions.main" target="11" />
+      <module name="Recipes.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

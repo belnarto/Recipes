@@ -1,0 +1,40 @@
+# Project exclude paths
+/.gradle/
+/Recipes/task/build/
+/Recipes/task/out/
+/Recipes/task/out/production/classes/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Initializing an array of integers/out/production/classes/
+/Topics/Errors in programs/Print the age/out/
+/Topics/Errors in programs/Print the age/out/production/classes/
+/Topics/Errors in programs/Theory/build/
+/Topics/Iterating over arrays/The minimum value of an array/out/
+/Topics/Iterating over arrays/The minimum value of an array/out/production/classes/
+/Topics/String/Comparing strings/out/
+/Topics/String/Comparing strings/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/The for-loop/Determine the result/out/
+/Topics/The for-loop/Determine the result/out/production/classes/
+/Topics/The for-loop/Size of parts/out/
+/Topics/The for-loop/Size of parts/out/production/classes/
+/Topics/The for-loop/Such different for loops/out/
+/Topics/The for-loop/Such different for loops/out/production/classes/
+/Topics/The for-loop/The roots of an equation/out/
+/Topics/The for-loop/The roots of an equation/out/production/classes/
+/Topics/The for-loop/Theory/out/
+/Topics/The for-loop/Theory/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The while and do-while loops/Determine the result/out/
+/Topics/The while and do-while loops/Determine the result/out/production/classes/
+/Topics/The while and do-while loops/Profit/out/
+/Topics/The while and do-while loops/Profit/out/production/classes/
+/Topics/The while and do-while loops/The largest element of a sequence/out/
+/Topics/The while and do-while loops/The largest element of a sequence/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
+/Topics/What is an exception/Avoid division by zero/out/
+/Topics/What is an exception/Avoid division by zero/out/production/classes/
